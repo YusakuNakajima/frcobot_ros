@@ -487,8 +487,7 @@
         xyz="0 0 0"
         rpy="0 0 0" />
       <geometry>
-        <mesh
-          filename="package://frcobot_description/meshes/fr3v6/visual/tool_Link.STL" />
+        <box size="0 0 0" />
       </geometry>
       <material
         name="">
@@ -501,8 +500,7 @@
         xyz="0 0 0"
         rpy="0 0 0" />
       <geometry>
-        <mesh
-          filename="package://frcobot_description/meshes/fr3v6/collision/tool_Link.STL" />
+        <box size="0 0 0" />
       </geometry>
     </collision>
   </link>

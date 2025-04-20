@@ -246,8 +246,7 @@
 
         <visual>
             <origin xyz="0 0 0" rpy="0 0 0" />
-            <geometry>
-                <mesh filename="package://frcobot_description/meshes/fr3v5/visual/tool_Link.STL" />
+            <box size="0 0 0" />
             </geometry>
             <material name="">
                 <color rgba="1 1 1 1" />
@@ -255,8 +254,7 @@
         </visual>
         <collision>
             <origin xyz="0 0 0" rpy="0 0 0" />
-            <geometry>
-                <mesh filename="package://frcobot_description/meshes/fr3v5/collision/tool_Link.STL" />
+            <box size="0 0 0" />
             </geometry>
         </collision>
     </link>
@@ -585,8 +583,7 @@
 
         <visual>
             <origin xyz="0 0 0" rpy="0 0 0" />
-            <geometry>
-                <mesh filename="package://frcobot_description/meshes/fr3v5/visual/tool_Link.STL" />
+            <box size="0 0 0" />
             </geometry>
             <material name="">
                 <color rgba="1 1 1 1" />
@@ -594,8 +591,7 @@
         </visual>
         <collision>
             <origin xyz="0 0 0" rpy="0 0 0" />
-            <geometry>
-                <mesh filename="package://frcobot_description/meshes/fr3v5/collision/tool_Link.STL" />
+            <box size="0 0 0" />
             </geometry>
         </collision>
     </link>
